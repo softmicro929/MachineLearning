@@ -1,6 +1,6 @@
 import tensorflow as tf
 
-INPUT_NODE = 14
+INPUT_NODE = 17
 OUTPUT_NODE = 2
 
 LAYER1_NODE = 500
@@ -25,10 +25,10 @@ def inference(input_tensor, regularizer):
         biases =tf.get_variable("biases",shape=[LAYER2_NODE])
         layer2 = tf.nn.relu(tf.matmul(layer1, weights) + biases)
 
-    with tf.variable_scope("layer3"):
-        weights = get_weight_variable([LAYER2_NODE,OUTPUT_NODE],regularizer)
-        biases =tf.get_variable("biases",shape=[OUTPUT_NODE])
-        layer3 = tf.nn.relu(tf.matmul(layer2, weights) + biases)
+    # with tf.variable_scope("layer3"):
+    #     weights = get_weight_variable([LAYER2_NODE,OUTPUT_NODE],regularizer)
+    #     biases =tf.get_variable("biases",shape=[OUTPUT_NODE])
+    #     layer3 = tf.nn.relu(tf.matmul(layer2, weights) + biases)
 
 
-    return layer3
+    return layer2

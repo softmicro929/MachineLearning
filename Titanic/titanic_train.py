@@ -1,7 +1,5 @@
 import tensorflow as tf
 import os
-import pandas as pd
-
 from Titanic import titanic_data
 from Titanic import titanic_inference
 
@@ -19,17 +17,13 @@ TRAINING_STEP = 20000
 MODEL_SAVE_PATH = "./model/"
 MODEL_NAME = "model.ckpt"
 
-def train(train_data,test_data):
-
-    # 用正则取出我们要的属性值
-    train_df = train_data.filter(regex='Survived|Age_.*|SibSp|Parch|Fare_.*|Cabin_.*|Embarked_.*|Sex_.*|Pclass_.*')
-    train_np = train_df.as_matrix()
+def train(train_data):
 
     # y即Survival结果
-    Y = pd.get_dummies(train_df['Survived'], prefix='Survived').as_matrix()
+    Y = train_data.get_y()
 
     # X即特征属性值
-    X = train_np[:, 1:]
+    X = train_data.get_x()
 
     x = tf.placeholder(tf.float32, [None, titanic_inference.INPUT_NODE], name="x-input")
     y_ = tf.placeholder(tf.float32, [None, titanic_inference.OUTPUT_NODE], name="y-input")
@@ -83,11 +77,9 @@ def train(train_data,test_data):
             _, summary,loss_value, step = sess.run([train_op,merged,loss,global_step],feed_dict={x:X,y_:Y})
 
             writer.add_summary(summary,i)
-            if i % 200 == 0:
-                print("after %d training steps,loss on training batch is %g", step, loss_value)
+            if i % 1000 == 0:
+                print("after %d training steps,loss on training is %g"%(step, loss_value))
                 saver.save(sess,save_path=os.path.join(MODEL_SAVE_PATH,MODEL_NAME),global_step=global_step)
-
-
 
     writer.close()
 
@@ -95,8 +87,9 @@ def train(train_data,test_data):
 
 def main(argv=None):
     data_url = "./data"
-    train_data,test_data = titanic_data.read_data_sets(data_url)
-    train(train_data,test_data)
+    train_data = titanic_data.read_train_data_sets(data_url)
+
+    train(train_data)
 
 if __name__ == '__main__':
     tf.app.run()

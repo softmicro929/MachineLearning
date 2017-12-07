@@ -1,7 +1,801 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="320d5319-8c6f-4405-8ed4-204265e7043f" name="Default" comment="" />
+    <list default="true" id="320d5319-8c6f-4405-8ed4-204265e7043f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569265.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569275.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569286.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569296.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569307.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569317.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569327.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569338.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569348.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569359.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569369.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569379.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569390.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569400.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569411.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569421.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569432.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569442.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569452.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569463.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569473.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569483.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569494.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569504.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569514.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569525.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569535.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569545.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569556.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569566.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569576.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569587.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569597.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569607.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569618.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569629.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569640.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569650.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569661.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569672.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569682.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569693.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569704.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569714.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569725.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569736.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569747.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569758.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569768.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569779.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569790.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569801.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569812.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569822.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569833.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569844.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569855.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569866.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569877.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569888.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569899.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569910.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569921.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569932.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569943.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569954.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569965.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569976.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569987.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569997.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570008.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570019.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570030.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570042.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570053.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570064.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570075.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570086.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570098.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570108.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570119.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570130.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570142.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570153.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570164.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570175.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570186.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570198.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570209.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570220.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570231.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570243.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570254.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570265.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570276.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570288.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570299.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570311.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570322.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570333.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570345.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570356.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570368.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570379.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570390.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570400.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570411.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570422.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570432.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570443.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570454.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570464.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570475.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570486.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570496.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570507.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570518.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570529.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570539.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570550.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570561.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570571.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570582.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570593.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570604.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570614.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570625.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570636.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570647.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570657.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570668.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570679.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570690.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570700.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570711.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570722.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570733.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570744.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570754.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570765.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570776.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570787.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570798.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570809.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570819.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570830.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570841.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570852.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570863.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570874.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570885.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570895.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570906.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570917.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570928.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570939.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570949.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570960.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570971.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570982.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512570993.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571004.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571015.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571025.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571036.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571047.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571058.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571069.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571080.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571091.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571101.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571112.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571123.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571134.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571145.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571156.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571167.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571178.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571189.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571199.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571210.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571221.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571232.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571243.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571254.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571265.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571276.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571287.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571298.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571309.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571320.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571331.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571342.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571353.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571364.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571375.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571386.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571397.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571408.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571419.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571430.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571441.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571452.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571463.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571474.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571485.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571496.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571507.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571518.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571529.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571540.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571551.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571562.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571573.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571584.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571595.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571606.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571618.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571629.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571640.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571651.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571662.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571673.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571684.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571696.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571707.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571718.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571729.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571740.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571752.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571763.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571774.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571785.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571796.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571808.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571819.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571830.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571841.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571852.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571864.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571875.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571886.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571897.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571909.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571920.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571931.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571943.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571954.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571965.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571977.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571988.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512571999.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572011.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572022.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572033.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572045.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572056.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572067.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572078.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572090.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572101.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572112.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572124.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572135.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572147.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572158.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572169.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572181.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572192.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572203.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572215.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572226.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572237.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572249.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572260.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572271.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572283.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572294.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572305.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572317.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572328.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572340.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572351.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572362.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572374.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572385.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572397.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572408.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572420.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572431.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572442.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572454.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572465.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572477.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572488.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572499.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572511.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572522.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572534.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572545.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572557.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572568.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572580.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572591.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572603.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572614.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572626.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572638.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572649.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572661.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572672.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572684.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572696.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572707.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572719.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572730.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572742.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572753.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572765.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572776.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572788.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572799.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572811.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572823.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572834.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572846.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572857.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572869.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572881.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572892.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572904.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572916.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572927.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572939.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572950.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572962.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572974.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572985.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512572997.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573009.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573021.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573032.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573044.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573056.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573067.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573079.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573091.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573102.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573114.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573126.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573138.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573149.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573161.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573173.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573184.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573196.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573208.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573220.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573231.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573243.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573255.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573267.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573278.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573290.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573302.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573314.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573325.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573337.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573349.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573361.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573373.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573384.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573396.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573408.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573420.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573432.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573444.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573456.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573468.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573480.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573492.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573503.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573515.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573527.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573539.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573551.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573563.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573575.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573587.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573598.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512573610.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609536.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609550.wangshunandeMBP.lan" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609566.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609577.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609589.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609601.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609613.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609624.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609636.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609648.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609661.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609673.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609685.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609697.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609709.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609720.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609732.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609744.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609756.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609768.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609778.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609790.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609802.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609815.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609826.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609838.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609850.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609862.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609874.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609885.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609897.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609909.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609921.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609933.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609945.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609956.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609968.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609980.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512609992.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610004.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610016.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610028.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610040.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610052.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610064.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610075.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610087.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610099.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610111.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610123.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610135.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610147.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610159.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610171.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610183.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610195.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610207.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610219.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610231.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610243.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610254.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610266.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610278.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610290.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610302.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610314.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610326.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610338.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610350.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610362.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610375.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610387.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610399.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610411.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610424.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610436.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610448.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610461.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610473.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610485.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610498.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610510.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610523.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610535.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610547.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610560.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610572.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610584.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610597.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610609.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610622.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610634.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610647.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610659.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610672.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610684.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610697.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610709.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610721.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610734.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610746.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610758.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610770.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610783.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610795.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610807.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610819.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610832.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610844.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610857.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610870.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610886.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610901.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610914.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610926.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610939.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610951.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610964.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610976.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512610988.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611001.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611013.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611026.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611039.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611051.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611064.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611076.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611088.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611101.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611113.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611126.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611138.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611151.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611163.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611175.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611188.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611200.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611213.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611225.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611237.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611250.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611262.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611275.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611287.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611300.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611312.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611325.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611337.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611350.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611362.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611375.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611387.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611400.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611413.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611425.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611438.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611451.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611463.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611476.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611488.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611501.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611514.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611526.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611538.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611551.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611579.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611592.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611605.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611618.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611630.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611643.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611655.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611668.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611680.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611693.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611706.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611718.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611731.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611743.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611756.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611768.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611781.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611794.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611806.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611819.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611831.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611844.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611856.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611869.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611882.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611894.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611907.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611920.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611932.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611945.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611958.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611970.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611983.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512611995.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612008.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612021.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612033.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612046.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612059.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612071.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612084.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612097.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612109.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612122.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612135.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612147.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612160.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612173.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612185.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612198.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612211.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612224.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612236.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612249.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612262.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612275.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612288.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612300.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612313.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612326.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612339.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612351.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612364.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612377.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612390.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612403.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612416.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612428.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612441.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612454.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612467.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612480.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612493.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612506.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612518.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612531.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612544.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612557.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612570.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612583.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612595.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612608.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612621.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612633.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612646.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612659.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612672.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612684.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612697.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612710.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612723.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612735.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612748.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612761.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612774.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612786.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612799.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612812.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612825.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612838.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612851.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612863.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612876.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612889.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612902.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612914.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612927.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612940.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612953.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612966.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612979.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512612991.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613004.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613017.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613031.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613044.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613057.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613070.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613084.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613100.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613118.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613136.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613153.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613171.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613188.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613205.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613222.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613238.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613256.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613274.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613291.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613308.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613326.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613344.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613361.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613377.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613390.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613404.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613417.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613431.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613449.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613465.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613482.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613499.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613517.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613535.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613552.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613570.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613586.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613604.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613623.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613641.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613659.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613678.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613696.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613714.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613730.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613744.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613757.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613771.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512465126.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512465264.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512465317.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512465817.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512465994.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512466056.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512466173.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512466229.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512473901.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512473943.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512541332.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512542060.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512569229.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512569605.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512570001.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512610859.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512613071.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512613423.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512614035.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512618039.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/Log/log/events.out.tfevents.1512630109.wangshuainandeMacBook-Pro.local" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-15001.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-15001.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-16001.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-16001.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-17001.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-17001.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-17001.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-18001.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-18001.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/preferred-vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonExercise/gl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonExercise/inner_class.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonExercise/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonExercise/printformat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonExercise/testgl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/DataSets.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/data_observer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/titanic_main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Titanic/titanic_test.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-19201.data-00000-of-00001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-19201.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-19401.data-00000-of-00001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-19401.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-19401.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-19601.data-00000-of-00001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-19601.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-19601.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-19801.data-00000-of-00001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-19801.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-19801.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-9501.data-00000-of-00001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-9501.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-9701.data-00000-of-00001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-9701.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-9901.data-00000-of-00001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-9901.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Titanic/test.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Titanic/testpanda.csv" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-19201.meta" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-18001.meta" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-9501.meta" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-16001.meta" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-9701.meta" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-19001.meta" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-9901.meta" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-15001.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-19001.data-00000-of-00001" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-19001.data-00000-of-00001" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-19001.index" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-19001.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PythonExercise/A.py" afterPath="$PROJECT_DIR$/PythonExercise/A.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Titanic/data/prediction.csv" afterPath="$PROJECT_DIR$/Titanic/data/prediction.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Titanic/data/processedtest.csv" afterPath="$PROJECT_DIR$/Titanic/data/processedtest.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Titanic/data/processedtrain.csv" afterPath="$PROJECT_DIR$/Titanic/data/processedtrain.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Titanic/model/checkpoint" afterPath="$PROJECT_DIR$/Titanic/model/checkpoint" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Titanic/titanic_data.py" afterPath="$PROJECT_DIR$/Titanic/titanic_data.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Titanic/titanic_eval.py" afterPath="$PROJECT_DIR$/Titanic/titanic_eval.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Titanic/titanic_inference.py" afterPath="$PROJECT_DIR$/Titanic/titanic_inference.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Titanic/titanic_train.py" afterPath="$PROJECT_DIR$/Titanic/titanic_train.py" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,28 +804,33 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/MachineLearning$A.coverage" NAME="A Coverage Results" MODIFIED="1509264612272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonExercise" />
-    <SUITE FILE_PATH="coverage/MachineLearning$ex5_4_1_b.coverage" NAME="ex5.4.1.b Coverage Results" MODIFIED="1509632311749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowExercise" />
+    <SUITE FILE_PATH="coverage/MachineLearning$A.coverage" NAME="A Coverage Results" MODIFIED="1512627661666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonExercise" />
     <SUITE FILE_PATH="coverage/MachineLearning$r_u_a_bird.coverage" NAME="r_u_a_bird Coverage Results" MODIFIED="1506432549172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MachineLearning$ex3_4_2.coverage" NAME="ex3.4.2 Coverage Results" MODIFIED="1509369113677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowExercise" />
-    <SUITE FILE_PATH="coverage/MachineLearning$titanic_data.coverage" NAME="titanic_data Coverage Results" MODIFIED="1512375675655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Titanic" />
+    <SUITE FILE_PATH="coverage/MachineLearning$titanic_data.coverage" NAME="titanic_data Coverage Results" MODIFIED="1512567220686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Titanic" />
     <SUITE FILE_PATH="coverage/MachineLearning$mnist_train__1_.coverage" NAME="mnist_train (1) Coverage Results" MODIFIED="1511445687762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST_CNN" />
-    <SUITE FILE_PATH="coverage/MachineLearning$titanic_train.coverage" NAME="titanic_train Coverage Results" MODIFIED="1512390231437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Titanic" />
-    <SUITE FILE_PATH="coverage/MachineLearning$downloadMNIST.coverage" NAME="downloadMNIST Coverage Results" MODIFIED="1506690250147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MachineLearning$minist_recognition.coverage" NAME="minist_recognition Coverage Results" MODIFIED="1509512943037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST" />
+    <SUITE FILE_PATH="coverage/MachineLearning$titanic_eval.coverage" NAME="titanic_eval Coverage Results" MODIFIED="1512630142388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Titanic" />
+    <SUITE FILE_PATH="coverage/MachineLearning$ex5_4_1_a.coverage" NAME="ex5.4.1.a Coverage Results" MODIFIED="1509670042903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowExercise" />
+    <SUITE FILE_PATH="coverage/MachineLearning$printformat.coverage" NAME="printformat Coverage Results" MODIFIED="1512441112977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonExercise" />
+    <SUITE FILE_PATH="coverage/MachineLearning$mnist_eval.coverage" NAME="mnist_eval Coverage Results" MODIFIED="1512569258301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST" />
+    <SUITE FILE_PATH="coverage/MachineLearning$read_data.coverage" NAME="read_data Coverage Results" MODIFIED="1512043049904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Titanic" />
+    <SUITE FILE_PATH="coverage/MachineLearning$ex3_4_5.coverage" NAME="ex3.4.5 Coverage Results" MODIFIED="1509419559206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowExercise" />
+    <SUITE FILE_PATH="coverage/MachineLearning$mnist_train.coverage" NAME="mnist_train Coverage Results" MODIFIED="1511445051701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST" />
+    <SUITE FILE_PATH="coverage/MachineLearning$ex5_4_1_b.coverage" NAME="ex5.4.1.b Coverage Results" MODIFIED="1509632311749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowExercise" />
+    <SUITE FILE_PATH="coverage/MachineLearning$testgl.coverage" NAME="testgl Coverage Results" MODIFIED="1512627299050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonExercise" />
+    <SUITE FILE_PATH="coverage/MachineLearning$inner_class.coverage" NAME="inner_class Coverage Results" MODIFIED="1512565733795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonExercise" />
+    <SUITE FILE_PATH="coverage/MachineLearning$main.coverage" NAME="main Coverage Results" MODIFIED="1512627670982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonExercise" />
+    <SUITE FILE_PATH="coverage/MachineLearning$titanic_train.coverage" NAME="titanic_train Coverage Results" MODIFIED="1512630099917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Titanic" />
+    <SUITE FILE_PATH="coverage/MachineLearning$titanic_test.coverage" NAME="titanic_test Coverage Results" MODIFIED="1512630504085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Titanic" />
+    <SUITE FILE_PATH="coverage/MachineLearning$downloadMNIST.coverage" NAME="downloadMNIST Coverage Results" MODIFIED="1506690250147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MachineLearning$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1509024771779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowExercise" />
     <SUITE FILE_PATH="coverage/MachineLearning$ex4_4_1.coverage" NAME="ex4.4.1 Coverage Results" MODIFIED="1509432946514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowExercise" />
     <SUITE FILE_PATH="coverage/MachineLearning$mnist_inference.coverage" NAME="mnist_inference Coverage Results" MODIFIED="1510115475342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST_CNN" />
     <SUITE FILE_PATH="coverage/MachineLearning$add_op.coverage" NAME="add_op Coverage Results" MODIFIED="1511428394133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorBoard" />
-    <SUITE FILE_PATH="coverage/MachineLearning$titanic_eval.coverage" NAME="titanic_eval Coverage Results" MODIFIED="1512390737909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Titanic" />
     <SUITE FILE_PATH="coverage/MachineLearning$ex3_4_4.coverage" NAME="ex3.4.4 Coverage Results" MODIFIED="1509369701963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowExercise" />
     <SUITE FILE_PATH="coverage/MachineLearning$ex4_2_2.coverage" NAME="ex4.2.2 Coverage Results" MODIFIED="1509431392697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowExercise" />
     <SUITE FILE_PATH="coverage/MachineLearning$initial_value.coverage" NAME="initial_value Coverage Results" MODIFIED="1509087945946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowExercise" />
-    <SUITE FILE_PATH="coverage/MachineLearning$ex5_4_1_a.coverage" NAME="ex5.4.1.a Coverage Results" MODIFIED="1509670042903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowExercise" />
-    <SUITE FILE_PATH="coverage/MachineLearning$mnist_eval.coverage" NAME="mnist_eval Coverage Results" MODIFIED="1511445642504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST" />
-    <SUITE FILE_PATH="coverage/MachineLearning$read_data.coverage" NAME="read_data Coverage Results" MODIFIED="1512043049904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Titanic" />
-    <SUITE FILE_PATH="coverage/MachineLearning$ex3_4_5.coverage" NAME="ex3.4.5 Coverage Results" MODIFIED="1509419559206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowExercise" />
-    <SUITE FILE_PATH="coverage/MachineLearning$mnist_train.coverage" NAME="mnist_train Coverage Results" MODIFIED="1511445051701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST" />
     <SUITE FILE_PATH="coverage/MachineLearning$hellotf.coverage" NAME="hellotf Coverage Results" MODIFIED="1509454939671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MNIST" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -40,26 +839,50 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="titanic_inference.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Titanic/titanic_inference.py">
+      <file leaf-file-name="titanic_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Titanic/titanic_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="325">
+              <caret line="262" column="0" lean-forward="false" selection-start-line="262" selection-start-column="2" selection-end-line="264" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#270#889#0" expanded="false" />
+                <element signature="e#935#1189#0" expanded="false" />
+                <element signature="e#1220#1327#0" expanded="false" />
+                <element signature="e#1358#1819#0" expanded="false" />
+                <element signature="e#1847#2283#0" expanded="false" />
+                <element signature="e#2314#2604#0" expanded="false" />
+                <element signature="e#2649#3028#0" expanded="false" />
+                <element signature="e#3063#3910#0" expanded="false" />
+                <element signature="e#3939#4084#0" expanded="false" />
+                <element signature="e#4117#4521#0" expanded="false" />
+                <element signature="e#4558#4970#0" expanded="false" />
+                <element signature="e#5009#5839#0" expanded="false" />
+                <element signature="e#5909#6285#0" expanded="false" />
+                <element signature="e#6363#6760#0" expanded="false" />
+                <element signature="e#6828#7052#0" expanded="false" />
+                <element signature="e#7110#7887#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataSets.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Titanic/DataSets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="titanic_data.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Titanic/titanic_data.py">
+      <file leaf-file-name="read_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Titanic/read_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="125" column="27" lean-forward="false" selection-start-line="125" selection-start-column="4" selection-end-line="125" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-                <element signature="e#1136#1247#0" expanded="false" />
-                <element signature="e#1768#2058#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="32" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -67,8 +890,8 @@
       <file leaf-file-name="titanic_train.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Titanic/titanic_train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-901">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -76,11 +899,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="titanic_eval.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="titanic_eval.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Titanic/titanic_eval.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="61" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="titanic_inference.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Titanic/titanic_inference.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="17" lean-forward="false" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="titanic_main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Titanic/titanic_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="titanic_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Titanic/titanic_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -91,11 +946,19 @@
       <file leaf-file-name="mnist_eval.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MNIST/mnist_eval.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="15" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="484">
+              <caret line="51" column="5" lean-forward="false" selection-start-line="51" selection-start-column="5" selection-end-line="52" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="downloadMNIST.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MNIST/downloadMNIST.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="148" column="4" lean-forward="false" selection-start-line="148" selection-start-column="4" selection-end-line="148" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -119,6 +982,9 @@
       <find>variable_summaries</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -128,7 +994,6 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/TensorFlowExercise/ex1.py" />
         <option value="$PROJECT_DIR$/TensorFlowExercise/initial_value.py" />
-        <option value="$PROJECT_DIR$/PythonExercise/A.py" />
         <option value="$PROJECT_DIR$/TensorFlowExercise/ex3.4.2.py" />
         <option value="$PROJECT_DIR$/TensorFlowExercise/ex3.4.4.py" />
         <option value="$PROJECT_DIR$/TensorFlowExercise/ex3.4.5.py" />
@@ -152,11 +1017,23 @@
         <option value="$PROJECT_DIR$/Titanic/read_data.py" />
         <option value="$PROJECT_DIR$/Titanic/data/titanic_data.py" />
         <option value="$PROJECT_DIR$/Titanic/tianic_train.py" />
-        <option value="$PROJECT_DIR$/Titanic/titanic_data.py" />
         <option value="$PROJECT_DIR$/MNIST/mnist_eval.py" />
+        <option value="$PROJECT_DIR$/PythonExercise/printformat.py" />
+        <option value="$PROJECT_DIR$/PythonExercise/inner_class.py" />
+        <option value="$PROJECT_DIR$/Titanic/data/processedtrain.csv" />
+        <option value="$PROJECT_DIR$/Titanic/data_observer.py" />
         <option value="$PROJECT_DIR$/Titanic/titanic_inference.py" />
+        <option value="$PROJECT_DIR$/Titanic/DataSets.py" />
+        <option value="$PROJECT_DIR$/Titanic/TitanicData.py" />
+        <option value="$PROJECT_DIR$/PythonExercise/A.py" />
+        <option value="$PROJECT_DIR$/PythonExercise/testgl.py" />
+        <option value="$PROJECT_DIR$/PythonExercise/main.py" />
+        <option value="$PROJECT_DIR$/PythonExercise/gl.py" />
+        <option value="$PROJECT_DIR$/Titanic/titanic_main.py" />
         <option value="$PROJECT_DIR$/Titanic/titanic_train.py" />
         <option value="$PROJECT_DIR$/Titanic/titanic_eval.py" />
+        <option value="$PROJECT_DIR$/Titanic/titanic_test.py" />
+        <option value="$PROJECT_DIR$/Titanic/titanic_data.py" />
       </list>
     </option>
   </component>
@@ -167,6 +1044,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-1440" />
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -185,6 +1063,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="MachineLearning">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -211,41 +1104,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MachineLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MachineLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Titanic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="MachineLearning">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -257,75 +1117,21 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/MNIST_CNN" />
-      <recent name="$PROJECT_DIR$/MNIST-CNN" />
-      <recent name="$PROJECT_DIR$/MNIST" />
-      <recent name="$PROJECT_DIR$/TensorFlowExercise" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Titanic" />
       <recent name="$PROJECT_DIR$/Titanic/data" />
       <recent name="$PROJECT_DIR$/MNIST" />
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Titanic" />
+      <recent name="$PROJECT_DIR$/MNIST_CNN" />
+      <recent name="$PROJECT_DIR$/MNIST-CNN" />
+      <recent name="$PROJECT_DIR$/MNIST" />
+      <recent name="$PROJECT_DIR$/TensorFlowExercise" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.titanic_eval">
-    <configuration default="false" name="mnist_train (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MNIST_CNN" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="MachineLearning" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNIST_CNN/mnist_train.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="read_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Titanic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="MachineLearning" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Titanic/read_data.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="titanic_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Titanic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="MachineLearning" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Titanic/titanic_data.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.titanic_test">
     <configuration default="false" name="titanic_train" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -360,6 +1166,63 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Titanic/titanic_eval.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="A" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonExercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MachineLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonExercise/A.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonExercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MachineLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonExercise/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="titanic_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Titanic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MachineLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Titanic/titanic_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ApexTest" factoryName="Apex Test">
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -577,21 +1440,27 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.mnist_train (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.read_data" />
-      <item index="2" class="java.lang.String" itemvalue="Python.titanic_data" />
-      <item index="3" class="java.lang.String" itemvalue="Python.titanic_train" />
-      <item index="4" class="java.lang.String" itemvalue="Python.titanic_eval" />
+      <item index="0" class="java.lang.String" itemvalue="Python.titanic_train" />
+      <item index="1" class="java.lang.String" itemvalue="Python.titanic_eval" />
+      <item index="2" class="java.lang.String" itemvalue="Python.A" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main" />
+      <item index="4" class="java.lang.String" itemvalue="Python.titanic_test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.titanic_eval" />
-        <item index="1" class="java.lang.String" itemvalue="Python.titanic_train" />
-        <item index="2" class="java.lang.String" itemvalue="Python.titanic_data" />
-        <item index="3" class="java.lang.String" itemvalue="Python.read_data" />
-        <item index="4" class="java.lang.String" itemvalue="Python.mnist_train (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.titanic_test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.titanic_eval" />
+        <item index="2" class="java.lang.String" itemvalue="Python.titanic_train" />
+        <item index="3" class="java.lang.String" itemvalue="Python.main" />
+        <item index="4" class="java.lang.String" itemvalue="Python.A" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SFStoredExecutionPersistentComponent">
+    <executions>
+      <execution name="Default" sourceToExecute="" />
+    </executions>
+    <lastSelectedExecutionName>Default</lastSelectedExecutionName>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -616,26 +1485,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1440" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17167382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29104477" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23678862" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37064677" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="81" y="198" width="1184" height="492" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18532339" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21816881" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22885571" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.30472636" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="215" y="40" width="1218" height="789" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39925373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22885571" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
@@ -647,141 +1519,19 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bird.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlowExercise/v1.npy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="89" lean-forward="true" selection-start-line="1" selection-start-column="89" selection-end-line="1" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlowExercise/ex1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonExercise/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/tensorflow/python/framework/constant_op.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="53" column="4" lean-forward="false" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlowExercise/ex3.4.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/tensorflow/python/ops/random_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="44" column="30" lean-forward="true" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/133511717/numpy/random/mtrand.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79373">
-          <caret line="4713" column="0" lean-forward="false" selection-start-line="4713" selection-start-column="0" selection-end-line="4713" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlowExercise/ex3.4.4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlowExercise/ex4.2.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="38" column="54" lean-forward="false" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlowExercise/ex3.4.5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/r_u_a_bird.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="42" column="53" lean-forward="false" selection-start-line="42" selection-start-column="53" selection-end-line="42" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonExercise/A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlowExercise/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlowExercise/ex4.4.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="82" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/tensorflow/python/ops/nn_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1616" column="4" lean-forward="false" selection-start-line="1616" selection-start-column="4" selection-end-line="1616" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlowExercise/ex4.4.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="86" column="98" lean-forward="false" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNIST/hellotf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlowExercise/model/combine_model.pb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MNIST/MNIST_data/README">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -814,13 +1564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="73" column="4" lean-forward="false" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/tensorflow/python/client/session.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="1073" column="0" lean-forward="false" selection-start-line="1073" selection-start-column="0" selection-end-line="1073" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -901,13 +1644,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNIST/minist_recognition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="84" column="17" lean-forward="false" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Titanic/data/train.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -926,17 +1662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNIST/downloadMNIST.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="151" column="14" lean-forward="false" selection-start-line="151" selection-start-column="14" selection-end-line="151" selection-end-column="14" />
-          <folding>
-            <element signature="e#733#771#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -944,7 +1669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="122" column="6" lean-forward="false" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -952,80 +1676,274 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/pandas/core/indexing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonExercise/printformat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="55" lean-forward="false" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="1098" column="36" lean-forward="true" selection-start-line="1098" selection-start-column="36" selection-end-line="1098" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNIST/mnist_inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://AlchemyModelDependency/#MachineLearning">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>AlchemyModelDependency</ID>
+          <OriginalElement>#MachineLearning</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="760.0" y="451.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonExercise/inner_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/data/test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/data/prediction.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/data/processedtest.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/data/processedtrain.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNIST/mnist_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNIST/minist_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="99" column="35" lean-forward="false" selection-start-line="99" selection-start-column="35" selection-end-line="99" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#23#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/data_observer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="19" lean-forward="false" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonExercise/gl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/titanic_data.py">
+    <entry file="file://$PROJECT_DIR$/PythonExercise/A.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="125" column="27" lean-forward="false" selection-start-line="125" selection-start-column="4" selection-end-line="125" selection-end-column="27" />
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonExercise/testgl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonExercise/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#1136#1247#0" expanded="false" />
-            <element signature="e#1768#2058#0" expanded="false" />
+            <element signature="e#0#35#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNIST/downloadMNIST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="148" column="4" lean-forward="false" selection-start-line="148" selection-start-column="4" selection-end-line="148" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/TitanicData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MNIST/mnist_eval.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="484">
+          <caret line="51" column="5" lean-forward="false" selection-start-line="51" selection-start-column="5" selection-end-line="52" selection-end-column="19" />
+          <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/DataSets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bird.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Titanic/read_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNIST/mnist_inference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNIST/mnist_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="41" column="49" lean-forward="false" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/titanic_inference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Titanic/titanic_train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-901">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="102">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/titanic_inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="17" lean-forward="false" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/titanic_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Titanic/titanic_eval.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="61" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/titanic_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="262" column="0" lean-forward="false" selection-start-line="262" selection-start-column="2" selection-end-line="264" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#270#889#0" expanded="false" />
+            <element signature="e#935#1189#0" expanded="false" />
+            <element signature="e#1220#1327#0" expanded="false" />
+            <element signature="e#1358#1819#0" expanded="false" />
+            <element signature="e#1847#2283#0" expanded="false" />
+            <element signature="e#2314#2604#0" expanded="false" />
+            <element signature="e#2649#3028#0" expanded="false" />
+            <element signature="e#3063#3910#0" expanded="false" />
+            <element signature="e#3939#4084#0" expanded="false" />
+            <element signature="e#4117#4521#0" expanded="false" />
+            <element signature="e#4558#4970#0" expanded="false" />
+            <element signature="e#5009#5839#0" expanded="false" />
+            <element signature="e#5909#6285#0" expanded="false" />
+            <element signature="e#6363#6760#0" expanded="false" />
+            <element signature="e#6828#7052#0" expanded="false" />
+            <element signature="e#7110#7887#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/titanic_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>

@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="320d5319-8c6f-4405-8ed4-204265e7043f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/BUILD.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/cifar10.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/cifar10_eval.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/cifar10_input.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/cifar10_input_test.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/cifar10_multi_gpu_train.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/cifar10_train.py" />
       <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/data/sampleSubmission.csv" />
       <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/data/test.7z" />
       <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/data/train.7z" />
       <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/data/trainLabels.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/testfile.py" />
       <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/tmp/cifar10_data/cifar-10-batches-bin/batches.meta.txt" />
       <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/tmp/cifar10_data/cifar-10-batches-bin/data_batch_1.bin" />
       <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/tmp/cifar10_data/cifar-10-batches-bin/data_batch_2.bin" />
@@ -751,6 +741,7 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613771.wangshuainandeMacBook-Pro.local" />
       <change beforePath="$PROJECT_DIR$/.idea/MachineLearning.iml" afterPath="$PROJECT_DIR$/.idea/MachineLearning.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Cifar/testfile.py" afterPath="$PROJECT_DIR$/Cifar/testfile.py" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -815,7 +806,7 @@
       <file leaf-file-name="cifar10.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cifar/cifar10.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
+            <state relative-caret-position="1509">
               <caret line="334" column="35" lean-forward="false" selection-start-line="334" selection-start-column="35" selection-end-line="334" selection-end-column="35" />
               <folding>
                 <element signature="e#1259#1297#0" expanded="true" />
@@ -828,30 +819,9 @@
                 <element signature="e#10627#11478#0" expanded="false" />
                 <element signature="e#11522#12523#0" expanded="false" />
                 <element signature="e#12566#14575#0" expanded="false" />
-                <element signature="e#14763#15770#0" expanded="false" />
                 <element signature="e#15800#16048#0" expanded="false" />
                 <element signature="e#16078#16391#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mnist_train.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNIST_CNN/mnist_train.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="49" column="40" lean-forward="false" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nn_ops.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/tensorflow/python/ops/nn_ops.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="1753" column="40" lean-forward="false" selection-start-line="1753" selection-start-column="34" selection-end-line="1753" selection-end-column="40" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -878,7 +848,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cifar10_multi_gpu_train.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cifar10_multi_gpu_train.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cifar/cifar10_multi_gpu_train.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="284">
@@ -892,14 +862,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cifar10_train.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="cifar10_train.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Cifar/cifar10_train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-879">
-              <caret line="50" column="58" lean-forward="false" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
-              <folding>
-                <element signature="e#1325#1363#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="311">
+              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -919,21 +887,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="io_ops.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/tensorflow/python/ops/io_ops.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="394" column="6" lean-forward="false" selection-start-line="394" selection-start-column="6" selection-end-line="394" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="testfile.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cifar/testfile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+            <state relative-caret-position="51">
+              <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -966,8 +924,8 @@
       <find>aise ValueError('Failed to find file: ' + f)</find>
       <find>tmp</find>
       <find>data_dir</find>
-      <find>start_queue_runners</find>
       <find>_add_loss_summaries</find>
+      <find>start_queue_runners</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -1021,12 +979,12 @@
         <option value="$PROJECT_DIR$/Titanic/titanic_test.py" />
         <option value="$PROJECT_DIR$/Titanic/titanic_data.py" />
         <option value="$PROJECT_DIR$/Cifar/cifar10_input_test.py" />
-        <option value="$PROJECT_DIR$/Cifar/testfile.py" />
         <option value="$PROJECT_DIR$/Cifar/cifar10_input.py" />
         <option value="$PROJECT_DIR$/Cifar/cifar10.py" />
-        <option value="$PROJECT_DIR$/Cifar/cifar10_train.py" />
         <option value="$PROJECT_DIR$/Cifar/cifar10_eval.py" />
         <option value="$PROJECT_DIR$/Cifar/cifar10_multi_gpu_train.py" />
+        <option value="$PROJECT_DIR$/Cifar/testfile.py" />
+        <option value="$PROJECT_DIR$/Cifar/cifar10_train.py" />
       </list>
     </option>
   </component>
@@ -1066,39 +1024,6 @@
               <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
               <item name="Cifar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="Cifar" type="462c0819:PsiDirectoryNode" />
-              <item name="tmp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="Cifar" type="462c0819:PsiDirectoryNode" />
-              <item name="tmp" type="462c0819:PsiDirectoryNode" />
-              <item name="cifar10_data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="Cifar" type="462c0819:PsiDirectoryNode" />
-              <item name="tmp" type="462c0819:PsiDirectoryNode" />
-              <item name="cifar10_data" type="462c0819:PsiDirectoryNode" />
-              <item name="cifar-10-batches-bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="Cifar" type="462c0819:PsiDirectoryNode" />
-              <item name="tmp" type="462c0819:PsiDirectoryNode" />
-              <item name="cifar10_train" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="MNIST_CNN" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1500,7 +1425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1512630862403</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cifar-10 test；">
+      <created>1514522500169</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1514522500169</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1522,10 +1454,10 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29104477" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23631841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14179105" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24248926" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24248926" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21268657" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34079602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20314735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49751243" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1550,7 +1482,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update project；&#10;I get 0.78 socre ,and the do some work on data_input,it more easy to use" />
-    <option name="LAST_COMMIT_MESSAGE" value="update project；&#10;I get 0.78 socre ,and the do some work on data_input,it more easy to use" />
+    <MESSAGE value="cifar-10 test；" />
+    <option name="LAST_COMMIT_MESSAGE" value="cifar-10 test；" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1573,13 +1506,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Titanic/data/train.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Titanic/figure_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1857,21 +1783,96 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/tensorflow/python/ops/io_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="394" column="6" lean-forward="false" selection-start-line="394" selection-start-column="6" selection-end-line="394" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNIST_CNN/mnist_inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cifar/cifar10_eval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="56" column="64" lean-forward="false" selection-start-line="56" selection-start-column="64" selection-end-line="56" selection-end-column="64" />
+          <folding>
+            <element signature="e#1225#1263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cifar/cifar10_multi_gpu_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="56" column="58" lean-forward="false" selection-start-line="56" selection-start-column="58" selection-end-line="56" selection-end-column="58" />
+          <folding>
+            <element signature="e#1553#1591#0" expanded="true" />
+            <element signature="e#2446#3759#0" expanded="false" />
+            <element signature="e#3802#5229#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Cifar/testfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        <state relative-caret-position="51">
+          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/tensorflow/python/ops/io_ops.py">
+    <entry file="file://$PROJECT_DIR$/ciaae/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="394" column="6" lean-forward="false" selection-start-line="394" selection-start-column="6" selection-end-line="394" selection-end-column="6" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNIST_CNN/mnist_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="49" column="40" lean-forward="false" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/tensorflow/python/ops/nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="1753" column="40" lean-forward="false" selection-start-line="1753" selection-start-column="34" selection-end-line="1753" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cifar/cifar10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1509">
+          <caret line="334" column="35" lean-forward="false" selection-start-line="334" selection-start-column="35" selection-end-line="334" selection-end-column="35" />
+          <folding>
+            <element signature="e#1259#1297#0" expanded="true" />
+            <element signature="e#2942#3549#0" expanded="false" />
+            <element signature="e#3604#4001#0" expanded="false" />
+            <element signature="e#4066#4911#0" expanded="false" />
+            <element signature="e#4942#5653#0" expanded="false" />
+            <element signature="e#5683#6520#0" expanded="false" />
+            <element signature="e#6550#10594#0" expanded="false" />
+            <element signature="e#10627#11478#0" expanded="false" />
+            <element signature="e#11522#12523#0" expanded="false" />
+            <element signature="e#12566#14575#0" expanded="false" />
+            <element signature="e#15800#16048#0" expanded="false" />
+            <element signature="e#16078#16391#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1888,81 +1889,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNIST_CNN/mnist_inference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/tensorflow/python/ops/nn_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="1753" column="40" lean-forward="false" selection-start-line="1753" selection-start-column="34" selection-end-line="1753" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNIST_CNN/mnist_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="49" column="40" lean-forward="false" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Cifar/cifar10_train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-879">
-          <caret line="50" column="58" lean-forward="false" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
-          <folding>
-            <element signature="e#1325#1363#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cifar/cifar10_eval.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="56" column="64" lean-forward="false" selection-start-line="56" selection-start-column="64" selection-end-line="56" selection-end-column="64" />
-          <folding>
-            <element signature="e#1225#1263#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cifar/cifar10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="334" column="35" lean-forward="false" selection-start-line="334" selection-start-column="35" selection-end-line="334" selection-end-column="35" />
-          <folding>
-            <element signature="e#1259#1297#0" expanded="true" />
-            <element signature="e#2942#3549#0" expanded="false" />
-            <element signature="e#3604#4001#0" expanded="false" />
-            <element signature="e#4066#4911#0" expanded="false" />
-            <element signature="e#4942#5653#0" expanded="false" />
-            <element signature="e#5683#6520#0" expanded="false" />
-            <element signature="e#6550#10594#0" expanded="false" />
-            <element signature="e#10627#11478#0" expanded="false" />
-            <element signature="e#11522#12523#0" expanded="false" />
-            <element signature="e#12566#14575#0" expanded="false" />
-            <element signature="e#14763#15770#0" expanded="false" />
-            <element signature="e#15800#16048#0" expanded="false" />
-            <element signature="e#16078#16391#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cifar/cifar10_multi_gpu_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="56" column="58" lean-forward="false" selection-start-line="56" selection-start-column="58" selection-end-line="56" selection-end-column="58" />
-          <folding>
-            <element signature="e#1553#1591#0" expanded="true" />
-            <element signature="e#2446#3759#0" expanded="false" />
-            <element signature="e#3802#5229#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="311">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

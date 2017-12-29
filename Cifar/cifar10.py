@@ -45,7 +45,7 @@ import gzip
 from six.moves import urllib
 import tensorflow as tf
 
-from Cifar import cifar10_input
+import cifar10_input
 
 parser = argparse.ArgumentParser()
 

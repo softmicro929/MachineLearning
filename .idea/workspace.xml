@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="320d5319-8c6f-4405-8ed4-204265e7043f" name="Default" comment="">
+    <list default="true" id="320d5319-8c6f-4405-8ed4-204265e7043f" name="Default" comment="cifar-10 test；&#10;change the batch to 300000">
       <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/data/sampleSubmission.csv" />
       <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/data/test.7z" />
       <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/data/train.7z" />
@@ -17,12 +17,15 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/tmp/cifar10_data/cifar-10-binary.tar.gz" />
       <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/tmp/cifar10_eval/events.out.tfevents.1514471983.wangshuainandeMacBook-Pro.local" />
       <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/tmp/cifar10_train/checkpoint" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/tmp/cifar10_train/events.out.tfevents.1514471847.wangshuainandeMacBook-Pro.local" />
       <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/tmp/cifar10_train/graph.pbtxt" />
       <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/tmp/cifar10_train/model.ckpt-1.data-00000-of-00002" />
       <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/tmp/cifar10_train/model.ckpt-1.data-00001-of-00002" />
       <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/tmp/cifar10_train/model.ckpt-1.index" />
       <change beforePath="" afterPath="$PROJECT_DIR$/Cifar/tmp/cifar10_train/model.ckpt-1.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CommentPredict/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CommentPredict/comment_predict.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CommentPredict/data/neg.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CommentPredict/data/pos.txt" />
       <change beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569265.wangshuainandeMacBook-Pro.local" />
       <change beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569275.wangshuainandeMacBook-Pro.local" />
       <change beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512569286.wangshuainandeMacBook-Pro.local" />
@@ -739,9 +742,37 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613744.wangshuainandeMacBook-Pro.local" />
       <change beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613757.wangshuainandeMacBook-Pro.local" />
       <change beforePath="" afterPath="$PROJECT_DIR$/MNIST/Log/log/events.out.tfevents.1512613771.wangshuainandeMacBook-Pro.local" />
-      <change beforePath="$PROJECT_DIR$/.idea/MachineLearning.iml" afterPath="$PROJECT_DIR$/.idea/MachineLearning.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/OpenCV/Delaunay/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/OpenCV/Delaunay/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/OpenCV/Delaunay/obama.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/OpenCV/Delaunay/obama.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/OpenCV/FaceMorph/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/OpenCV/FaceMorph/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/OpenCV/FaceMorph/donald_trump.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/OpenCV/FaceMorph/donald_trump.jpg.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/OpenCV/FaceMorph/faceMorph.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/OpenCV/FaceMorph/hillary_clinton.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/OpenCV/FaceMorph/hillary_clinton.jpg.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/OpenCV/FaceMorph/ted_cruz.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/OpenCV/FaceMorph/ted_cruz.jpg.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/OpenCV/FaceMorph/tri.txt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Cifar/testfile.py" afterPath="$PROJECT_DIR$/Cifar/testfile.py" />
+      <change beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-15001.data-00000-of-00001" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-15001.data-00000-of-00001" />
+      <change beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-15001.index" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-15001.index" />
+      <change beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-15001.meta" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-15001.meta" />
+      <change beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-16001.data-00000-of-00001" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-16001.data-00000-of-00001" />
+      <change beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-16001.index" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-16001.index" />
+      <change beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-16001.meta" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-16001.meta" />
+      <change beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-17001.data-00000-of-00001" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-17001.data-00000-of-00001" />
+      <change beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-17001.index" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-17001.index" />
+      <change beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-17001.meta" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-17001.meta" />
+      <change beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-18001.data-00000-of-00001" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-18001.data-00000-of-00001" />
+      <change beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-18001.index" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-18001.index" />
+      <change beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-18001.meta" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-18001.meta" />
+      <change beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-19001.data-00000-of-00001" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-19001.data-00000-of-00001" />
+      <change beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-19001.index" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-19001.index" />
+      <change beforePath="$PROJECT_DIR$/Titanic/model/model.ckpt-19001.meta" afterPath="$PROJECT_DIR$/Titanic/model/model.ckpt-19001.meta" />
+      <change beforePath="$PROJECT_DIR$/Titanic/titanic_train.py" afterPath="$PROJECT_DIR$/Titanic/titanic_train.py" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -771,7 +802,7 @@
     <SUITE FILE_PATH="coverage/MachineLearning$ex4_2_2.coverage" NAME="ex4.2.2 Coverage Results" MODIFIED="1509431392697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowExercise" />
     <SUITE FILE_PATH="coverage/MachineLearning$titanic_data.coverage" NAME="titanic_data Coverage Results" MODIFIED="1512567220686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Titanic" />
     <SUITE FILE_PATH="coverage/MachineLearning$cifar10_eval.coverage" NAME="cifar10_eval Coverage Results" MODIFIED="1514471978495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cifar" />
-    <SUITE FILE_PATH="coverage/MachineLearning$cifar10_train.coverage" NAME="cifar10_train Coverage Results" MODIFIED="1514471844476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cifar" />
+    <SUITE FILE_PATH="coverage/MachineLearning$cifar10_train.coverage" NAME="cifar10_train Coverage Results" MODIFIED="1514531822771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cifar" />
     <SUITE FILE_PATH="coverage/MachineLearning$ex3_4_2.coverage" NAME="ex3.4.2 Coverage Results" MODIFIED="1509369113677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowExercise" />
     <SUITE FILE_PATH="coverage/MachineLearning$downloadMNIST.coverage" NAME="downloadMNIST Coverage Results" MODIFIED="1506690250147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MachineLearning$cifar10_input.coverage" NAME="cifar10_input Coverage Results" MODIFIED="1514467051516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cifar" />
@@ -803,98 +834,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="cifar10.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cifar/cifar10.py">
+      <file leaf-file-name="comment_predict.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CommentPredict/comment_predict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1509">
-              <caret line="334" column="35" lean-forward="false" selection-start-line="334" selection-start-column="35" selection-end-line="334" selection-end-column="35" />
-              <folding>
-                <element signature="e#1259#1297#0" expanded="true" />
-                <element signature="e#2942#3549#0" expanded="false" />
-                <element signature="e#3604#4001#0" expanded="false" />
-                <element signature="e#4066#4911#0" expanded="false" />
-                <element signature="e#4942#5653#0" expanded="false" />
-                <element signature="e#5683#6520#0" expanded="false" />
-                <element signature="e#6550#10594#0" expanded="false" />
-                <element signature="e#10627#11478#0" expanded="false" />
-                <element signature="e#11522#12523#0" expanded="false" />
-                <element signature="e#12566#14575#0" expanded="false" />
-                <element signature="e#15800#16048#0" expanded="false" />
-                <element signature="e#16078#16391#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mnist_inference.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNIST_CNN/mnist_inference.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-228">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cifar10_eval.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cifar/cifar10_eval.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="56" column="64" lean-forward="false" selection-start-line="56" selection-start-column="64" selection-end-line="56" selection-end-column="64" />
-              <folding>
-                <element signature="e#1225#1263#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cifar10_multi_gpu_train.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cifar/cifar10_multi_gpu_train.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="56" column="58" lean-forward="false" selection-start-line="56" selection-start-column="58" selection-end-line="56" selection-end-column="58" />
-              <folding>
-                <element signature="e#1553#1591#0" expanded="true" />
-                <element signature="e#2446#3759#0" expanded="false" />
-                <element signature="e#3802#5229#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cifar10_train.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Cifar/cifar10_train.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cifar10_input.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cifar/cifar10_input.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="153" column="31" lean-forward="false" selection-start-line="153" selection-start-column="31" selection-end-line="153" selection-end-column="31" />
-              <folding>
-                <element signature="e#751#789#0" expanded="true" />
-                <element signature="e#1392#4423#0" expanded="false" />
-                <element signature="e#6249#9141#0" expanded="false" />
-                <element signature="e#9193#11408#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testfile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cifar/testfile.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            <state relative-caret-position="468">
+              <caret line="158" column="85" lean-forward="false" selection-start-line="158" selection-start-column="85" selection-end-line="158" selection-end-column="85" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
+                <element signature="e#664#902#0" expanded="false" />
+                <element signature="e#3079#3286#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="titanic_train.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Titanic/titanic_train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="68" column="50" lean-forward="false" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="titanic_eval.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Titanic/titanic_eval.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="55" column="21" lean-forward="false" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="titanic_inference.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Titanic/titanic_inference.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -926,6 +905,9 @@
       <find>data_dir</find>
       <find>_add_loss_summaries</find>
       <find>start_queue_runners</find>
+      <find>Summary</find>
+      <find>xrange</find>
+      <find>losses</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -934,10 +916,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hellotf.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/TensorFlowExercise/ex1.py" />
-        <option value="$PROJECT_DIR$/TensorFlowExercise/initial_value.py" />
         <option value="$PROJECT_DIR$/TensorFlowExercise/ex3.4.2.py" />
         <option value="$PROJECT_DIR$/TensorFlowExercise/ex3.4.4.py" />
         <option value="$PROJECT_DIR$/TensorFlowExercise/ex3.4.5.py" />
@@ -974,17 +952,21 @@
         <option value="$PROJECT_DIR$/PythonExercise/main.py" />
         <option value="$PROJECT_DIR$/PythonExercise/gl.py" />
         <option value="$PROJECT_DIR$/Titanic/titanic_main.py" />
-        <option value="$PROJECT_DIR$/Titanic/titanic_train.py" />
         <option value="$PROJECT_DIR$/Titanic/titanic_eval.py" />
         <option value="$PROJECT_DIR$/Titanic/titanic_test.py" />
         <option value="$PROJECT_DIR$/Titanic/titanic_data.py" />
         <option value="$PROJECT_DIR$/Cifar/cifar10_input_test.py" />
         <option value="$PROJECT_DIR$/Cifar/cifar10_input.py" />
+        <option value="$PROJECT_DIR$/Cifar/testfile.py" />
+        <option value="$PROJECT_DIR$/Cifar/cifar10_train.py" />
         <option value="$PROJECT_DIR$/Cifar/cifar10.py" />
         <option value="$PROJECT_DIR$/Cifar/cifar10_eval.py" />
         <option value="$PROJECT_DIR$/Cifar/cifar10_multi_gpu_train.py" />
-        <option value="$PROJECT_DIR$/Cifar/testfile.py" />
-        <option value="$PROJECT_DIR$/Cifar/cifar10_train.py" />
+        <option value="$PROJECT_DIR$/OpenCV/delaunay.py" />
+        <option value="$PROJECT_DIR$/OpenCV/Delaunay/delaunay.py" />
+        <option value="$PROJECT_DIR$/OpenCV/FaceMorph/faceMorph.py" />
+        <option value="$PROJECT_DIR$/Titanic/titanic_train.py" />
+        <option value="$PROJECT_DIR$/CommentPredict/comment_predict.py" />
       </list>
     </option>
   </component>
@@ -995,8 +977,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="-1920" />
+    <option name="y" value="-221" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -1013,6 +997,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1020,17 +1006,10 @@
               <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="Cifar" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1041,18 +1020,18 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CommentPredict/data" />
+      <recent name="$PROJECT_DIR$/OpenCV/FaceMorph" />
+      <recent name="$PROJECT_DIR$/OpenCV" />
+      <recent name="$PROJECT_DIR$/Cifar/tmp/cifar10_data" />
+      <recent name="$PROJECT_DIR$/Titanic" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/OpenCV/Delaunay" />
       <recent name="$PROJECT_DIR$/Cifar" />
       <recent name="$PROJECT_DIR$/Titanic" />
       <recent name="$PROJECT_DIR$/Titanic/data" />
-      <recent name="$PROJECT_DIR$/MNIST" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Cifar/tmp/cifar10_data" />
-      <recent name="$PROJECT_DIR$/Titanic" />
-      <recent name="$PROJECT_DIR$/MNIST_CNN" />
-      <recent name="$PROJECT_DIR$/MNIST-CNN" />
       <recent name="$PROJECT_DIR$/MNIST" />
     </key>
   </component>
@@ -1068,7 +1047,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cifar10_eval">
+  <component name="RunManager" selected="Python.comment_predict">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1088,25 +1067,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="cifar10" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cifar" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="MachineLearning" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cifar/cifar10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="cifar10_eval" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1121,25 +1081,6 @@
       <module name="MachineLearning" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cifar/cifar10_eval.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="cifar10_input" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cifar" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="MachineLearning" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cifar/cifar10_input.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1164,22 +1105,83 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="testfile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="comment_predict" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_LOAD_VALUES_ASYNC" value="True" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cifar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CommentPredict" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MachineLearning" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cifar/testfile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CommentPredict/comment_predict.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="delaunay" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_LOAD_VALUES_ASYNC" value="True" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MachineLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/Delaunay/delaunay.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="faceMorph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_LOAD_VALUES_ASYNC" value="True" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OpenCV/FaceMorph" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MachineLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenCV/FaceMorph/faceMorph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="titanic_train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_LOAD_VALUES_ASYNC" value="True" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Titanic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MachineLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Titanic/titanic_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
@@ -1381,20 +1383,21 @@
       <arguments />
       <envs />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.cifar10_train" />
-      <item index="1" class="java.lang.String" itemvalue="Python.cifar10" />
-      <item index="2" class="java.lang.String" itemvalue="Python.testfile" />
-      <item index="3" class="java.lang.String" itemvalue="Python.cifar10_eval" />
-      <item index="4" class="java.lang.String" itemvalue="Python.cifar10_input" />
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python.delaunay" />
+      <item index="1" class="java.lang.String" itemvalue="Python.cifar10_train" />
+      <item index="2" class="java.lang.String" itemvalue="Python.cifar10_eval" />
+      <item index="3" class="java.lang.String" itemvalue="Python.faceMorph" />
+      <item index="4" class="java.lang.String" itemvalue="Python.comment_predict" />
+      <item index="5" class="java.lang.String" itemvalue="Python.titanic_train" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.cifar10_eval" />
-        <item index="1" class="java.lang.String" itemvalue="Python.cifar10_train" />
-        <item index="2" class="java.lang.String" itemvalue="Python.testfile" />
-        <item index="3" class="java.lang.String" itemvalue="Python.cifar10_input" />
-        <item index="4" class="java.lang.String" itemvalue="Python.cifar10" />
+        <item index="0" class="java.lang.String" itemvalue="Python.comment_predict" />
+        <item index="1" class="java.lang.String" itemvalue="Python.titanic_train" />
+        <item index="2" class="java.lang.String" itemvalue="Python.faceMorph" />
+        <item index="3" class="java.lang.String" itemvalue="Python.cifar10_train" />
+        <item index="4" class="java.lang.String" itemvalue="Python.cifar10_eval" />
       </list>
     </recent_temporary>
   </component>
@@ -1432,7 +1435,49 @@
       <option name="project" value="LOCAL" />
       <updated>1514522500169</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="cifar-10 test；">
+      <created>1514524534978</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1514524534978</updated>
+    </task>
+    <task id="LOCAL-00004" summary="cifar-10 test；&#10;test direction of ./tmp">
+      <created>1514524662376</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1514524662376</updated>
+    </task>
+    <task id="LOCAL-00005" summary="cifar-10 test；&#10;test direction of /tmp">
+      <created>1514524853812</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1514524853812</updated>
+    </task>
+    <task id="LOCAL-00006" summary="cifar-10 test；&#10;test direction of /tmp">
+      <created>1514525020028</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1514525020028</updated>
+    </task>
+    <task id="LOCAL-00007" summary="cifar-10 test；&#10;update the multi_gpu import code">
+      <created>1514530477360</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1514530477360</updated>
+    </task>
+    <task id="LOCAL-00008" summary="cifar-10 test；&#10;change the batch to 300000">
+      <created>1514856846194</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1514856846194</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1445,20 +1490,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="-1920" y="-221" width="1920" height="1080" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35479257" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="310" height="700" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13922764" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="81" y="198" width="1184" height="492" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26411074" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="310" height="700" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34756097" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="108" y="366" width="1184" height="492" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29104477" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23631841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14179105" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24248926" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11980831" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34079602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53109455" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29765707" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20314735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49751243" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1483,7 +1528,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update project；&#10;I get 0.78 socre ,and the do some work on data_input,it more easy to use" />
     <MESSAGE value="cifar-10 test；" />
-    <option name="LAST_COMMIT_MESSAGE" value="cifar-10 test；" />
+    <MESSAGE value="cifar-10 test；&#10;test direction of ./tmp" />
+    <MESSAGE value="cifar-10 test；&#10;test direction of /tmp" />
+    <MESSAGE value="cifar-10 test；&#10;update the multi_gpu import code" />
+    <MESSAGE value="cifar-10 test；&#10;change the batch to 300000" />
+    <option name="LAST_COMMIT_MESSAGE" value="cifar-10 test；&#10;change the batch to 300000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1506,112 +1555,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Titanic/figure_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/data/readme">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNIST_CNN/downloadMNIST.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="122" column="6" lean-forward="false" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/tensorflow/python/platform/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/pandas/core/indexing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonExercise/printformat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="55" lean-forward="false" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/tensorflow/python/client/session.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="1098" column="36" lean-forward="true" selection-start-line="1098" selection-start-column="36" selection-end-line="1098" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MNIST/mnist_inference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://AlchemyModelDependency/#MachineLearning">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>AlchemyModelDependency</ID>
-          <OriginalElement>#MachineLearning</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="760.0" y="451.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonExercise/inner_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/data/test.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/data/prediction.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/data/processedtest.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Titanic/data/processedtrain.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1674,45 +1617,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/titanic_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="262" column="0" lean-forward="false" selection-start-line="262" selection-start-column="2" selection-end-line="264" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/DataSets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Titanic/read_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/titanic_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/titanic_eval.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="61" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/titanic_inference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="17" lean-forward="false" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1756,7 +1664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1764,14 +1671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cifar/cifar10_input_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="50" lean-forward="true" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -1779,7 +1678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1793,57 +1691,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MNIST_CNN/mnist_inference.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cifar/cifar10_eval.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="56" column="64" lean-forward="false" selection-start-line="56" selection-start-column="64" selection-end-line="56" selection-end-column="64" />
-          <folding>
-            <element signature="e#1225#1263#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cifar/cifar10_multi_gpu_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="56" column="58" lean-forward="false" selection-start-line="56" selection-start-column="58" selection-end-line="56" selection-end-column="58" />
-          <folding>
-            <element signature="e#1553#1591#0" expanded="true" />
-            <element signature="e#2446#3759#0" expanded="false" />
-            <element signature="e#3802#5229#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cifar/testfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ciaae/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ciaae/__init__.py" />
     <entry file="file://$PROJECT_DIR$/MNIST_CNN/mnist_train.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
           <caret line="49" column="40" lean-forward="false" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1851,34 +1708,73 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
           <caret line="1753" column="40" lean-forward="false" selection-start-line="1753" selection-start-column="34" selection-end-line="1753" selection-end-column="40" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cifar/testfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="250" lean-forward="false" selection-start-line="3" selection-start-column="250" selection-end-line="3" selection-end-column="250" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cifar/cifar10_eval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydev_run_in_console.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Cifar/cifar10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1509">
-          <caret line="334" column="35" lean-forward="false" selection-start-line="334" selection-start-column="35" selection-end-line="334" selection-end-column="35" />
-          <folding>
-            <element signature="e#1259#1297#0" expanded="true" />
-            <element signature="e#2942#3549#0" expanded="false" />
-            <element signature="e#3604#4001#0" expanded="false" />
-            <element signature="e#4066#4911#0" expanded="false" />
-            <element signature="e#4942#5653#0" expanded="false" />
-            <element signature="e#5683#6520#0" expanded="false" />
-            <element signature="e#6550#10594#0" expanded="false" />
-            <element signature="e#10627#11478#0" expanded="false" />
-            <element signature="e#11522#12523#0" expanded="false" />
-            <element signature="e#12566#14575#0" expanded="false" />
-            <element signature="e#15800#16048#0" expanded="false" />
-            <element signature="e#16078#16391#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cifar/cifar10_multi_gpu_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="56" column="54" lean-forward="false" selection-start-line="56" selection-start-column="54" selection-end-line="56" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/Delaunay/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/Delaunay/obama.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/Delaunay/obama.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cifar/cifar10_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="29" lean-forward="false" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Cifar/cifar10_input.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
+        <state relative-caret-position="720">
           <caret line="153" column="31" lean-forward="false" selection-start-line="153" selection-start-column="31" selection-end-line="153" selection-end-column="31" />
           <folding>
             <element signature="e#751#789#0" expanded="true" />
@@ -1889,11 +1785,126 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cifar/cifar10_train.py">
+    <entry file="file://$PROJECT_DIR$/Cifar/cifar10_input_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        <state relative-caret-position="680">
+          <caret line="48" column="50" lean-forward="false" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/133511717/PyQt5/QtGui/QPolygon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="28" column="8" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/133511717/PyQt5/QtWidgets/QGraphicsTextItem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/133511717/PyQt5/QtGui/QPainter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/FaceMorph/faceMorph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="85" column="15" lean-forward="false" selection-start-line="85" selection-start-column="15" selection-end-line="85" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/FaceMorph/donald_trump.jpg.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-854">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/FaceMorph/tri.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV/Delaunay/delaunay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="115" column="8" lean-forward="false" selection-start-line="115" selection-start-column="8" selection-end-line="115" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommentPredict/data/pos.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23556">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18241">
+          <caret line="1092" column="0" lean-forward="false" selection-start-line="1092" selection-start-column="0" selection-end-line="1092" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/titanic_inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/titanic_eval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="55" column="21" lean-forward="false" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/titanic_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="196" column="35" lean-forward="false" selection-start-line="196" selection-start-column="26" selection-end-line="196" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/DataSets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/titanic_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="68" column="50" lean-forward="false" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommentPredict/comment_predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="158" column="85" lean-forward="false" selection-start-line="158" selection-start-column="85" selection-end-line="158" selection-end-column="85" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#664#902#0" expanded="false" />
+            <element signature="e#3079#3286#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

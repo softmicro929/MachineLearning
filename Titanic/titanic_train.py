@@ -25,6 +25,16 @@ def train(train_data):
     # X即特征属性值
     X = train_data.get_x()
 
+    # print(type(X))
+    # print(type(X[0]))
+    # print(X.shape)
+    # print(X)
+    #
+    # print(type(Y))
+    # print(type(Y[0]))
+    # print(Y.shape)
+    # print(Y)
+
     x = tf.placeholder(tf.float32, [None, titanic_inference.INPUT_NODE], name="x-input")
     y_ = tf.placeholder(tf.float32, [None, titanic_inference.OUTPUT_NODE], name="y-input")
 
@@ -88,6 +98,8 @@ def train(train_data):
 def main(argv=None):
     data_url = "./data"
     train_data = titanic_data.read_train_data_sets(data_url)
+
+
 
     train(train_data)
 

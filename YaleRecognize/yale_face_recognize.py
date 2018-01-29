@@ -4,11 +4,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 from PIL import Image
 
-
 learning_rate = 0.0001
 batch_size = 5
 num_class = 15
 epochs = 10
+
 
 # 加载数据
 def read_file(filename):
@@ -19,11 +19,16 @@ def read_file(filename):
     except IOError as error:
         print('file open error', str(error))
 
-#显示一张图片
+
+# 显示一张图片
 def show_img(img_arr):
     img_mat = np.reshape(img_arr, (64, 64))
-    img = Image.fromarray(img_mat)
-    img.show()
+    # img = Image.fromarray(img_mat)
+    # img.show()
+    plt.imshow(img_mat, cmap='gray')
+    plt.axis('off')  # 不显示坐标轴
+    plt.show()
+
 
 # 知道了，np.zeros生成返回的one_hot矩阵列表，numlables*num_classes(165*15)
 # 然后将每一行对应分类置为1，怎么找到每行的位置呢，使用index_offset+类别号（0-14）
@@ -34,9 +39,11 @@ def label_to_one_hot(labels_dense, num_classes=15):
     labels_one_hot.flat[index_offset + labels_dense.ravel()] = 1
     return labels_one_hot
 
+
 # 将图片转灰度图
 def to4d(img):
     return img.reshape(img.shape[0], 64, 64, 1).astype(np.float32) / 255
+
 
 # 将数据shuffle随机，并在训练集上切分出测试集
 # 将类别转为one_hot
@@ -66,6 +73,7 @@ def process_data(train_data, train_labels):
     test_labels = label_to_one_hot(test_labels, 15)
 
     return train_data, train_labels, test_data, test_labels
+
 
 def _variable_on_cpu(name, shape, initializer):
     """Helper to create a Variable stored on CPU memory.
@@ -97,7 +105,18 @@ def _variable_with_weight_decay(name, shape, stddev, wd):
         tf.add_to_collection('losses', weight_decay)
     return var
 
-#前向卷积过程
+
+# def show_cnn_image(conv, x):
+#     result = conv.eval(feed_dict=)
+#     for _ in xrange(32):
+#         show_img = result[:, :, :, _]
+#         show_img.shape = [28, 28]
+#         plt.subplot(4, 8, _ + 1)
+#         plt.imshow(show_img, cmap='gray')
+#         plt.axis('off')
+#     plt.show()
+
+# 前向卷积过程
 def inference(images):
     # conv1
     with tf.variable_scope('conv1') as scope:
@@ -137,13 +156,12 @@ def inference(images):
     # pool2
     pool2 = tf.nn.max_pool(norm2, ksize=[1, 2, 2, 1], strides=[1, 2, 2, 1], padding='SAME', name='pool2')
 
-
     # local3
     with tf.variable_scope('local3') as scope:
         # Move everything into depth so we can perform a single matrix multiply.
         pool2_shape = pool2.get_shape().as_list()
-        nodes = pool2_shape[1]*pool2_shape[2]*pool2_shape[3]
-        #reshape = tf.reshape(pool2, [batch_size, nodes])
+        nodes = pool2_shape[1] * pool2_shape[2] * pool2_shape[3]
+        # reshape = tf.reshape(pool2, [batch_size, nodes])
 
         # print(nodes)
         # print(pool2_shape[0])
@@ -174,14 +192,15 @@ def inference(images):
                                   tf.constant_initializer(0.0))
         softmax_linear = tf.add(tf.matmul(local4, weights), biases, name=scope.name)
 
-    return softmax_linear
+    return softmax_linear, conv1, conv2
 
-#训练
+
+# 训练
 def train(train_data, train_labels, test_data, test_labels):
     x = tf.placeholder(tf.float32, [None, 64, 64, 1], name='x-input')
-    y_ = tf.placeholder(tf.float32,[None, 15])
+    y_ = tf.placeholder(tf.float32, [None, 15])
 
-    y = inference(x)
+    y, conv1, conv2 = inference(x)
 
     global_step = tf.Variable(0, trainable=False)
 
@@ -204,7 +223,7 @@ def train(train_data, train_labels, test_data, test_labels):
             i = 0
             while i < len(train_data):
                 start = i
-                end = i+batch_size
+                end = i + batch_size
 
                 batch_x = train_data[start:end]
                 # batch_x = np.reshape(batch_x, (None,64,64,1))
@@ -216,23 +235,51 @@ def train(train_data, train_labels, test_data, test_labels):
                 # print(np.shape(batch_x))
                 # print(type(batch_x))
 
-                _,value_loss,step = sess.run([optimizer, loss, global_step],feed_dict={x:batch_x, y_:batch_y})
+                _, value_loss, step = sess.run([optimizer, loss, global_step], feed_dict={x: batch_x, y_: batch_y})
 
                 if i % 50 == 0:
                     print("--------------> %d training steps,loss : %g" % (step, value_loss))
 
                 i += batch_size
-            accu = sess.run(accuracy,feed_dict={x:test_data, y_:test_labels})
+
+            accu = sess.run(accuracy, feed_dict={x: test_data, y_: test_labels})
             print("======================================================>%d epoch,accuracy : %g" % (epoch, accu))
+
+            if (epoch):
+                # 这里我需要一个tensor：conv1
+                X_img = train_data[0:1]
+                Y_img = train_labels[0:1]
+
+                result = conv1.eval(feed_dict={x: X_img, y_: Y_img})
+                # result2 = conv2.eval(feed_dict={x: X_img, y_: Y_img})
+
+                # print(result.shape)
+                # print(type(result))
+                for _ in range(32):
+                    show_img = result[:, :, :, _]
+                    show_img.shape = [64, 64]
+                    plt.subplot(4, 8, _ + 1)
+                    plt.imshow(show_img, cmap='gray')
+                    plt.axis('off')
+                plt.show()
+                # for _ in range(64):
+                #     show_img2 = result2[:, :, :, _]
+                #     show_img2.shape = [32, 32]
+                #     plt.subplot(8, 8, _ + 1)
+                #     plt.imshow(show_img2, cmap='gray')
+                #     plt.axis('off')
+                # plt.show()
 
 
 def main(argv=None):
     try:
         train_data, train_labels = read_file('data/Yale_64x64.mat')
-        if(train_data is None or train_labels is None):
+        if (train_data is None or train_labels is None):
             return
         print(type(train_data))
         print(type(train_labels))
+
+        show_img(train_data[0])
 
         train_data, train_labels, test_data, test_labels = process_data(train_data, train_labels)
 
@@ -242,6 +289,7 @@ def main(argv=None):
 
     except IOError as error:
         print('IO ERROR ' + str(error))
+
 
 if __name__ == '__main__':
     tf.app.run()
